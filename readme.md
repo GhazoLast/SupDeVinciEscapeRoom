@@ -1,6 +1,6 @@
 # TP Spring Core – IoC & DI
 
-Exercice 5 : Escape Rooms
+Exercice 5 : Escape Rooms (VERSION DE L'EXERCICE PAR TANGUY PERREUX)
 
 L’objectif est de mettre en application les concepts d’injection de dépendance et d’inversion de contrôle avec Spring.
 
